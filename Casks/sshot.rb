@@ -1,6 +1,6 @@
 cask "sshot" do
-  version "1.0.0"
-  sha256 "7efcb95ef6d707837471dcd5526a478d54377bf978e1cf1da01d19d3499dcd1a"
+  version "1.1.0"
+  sha256 "d47a758580d96bff484b9d4bca54cfec21dc71e1aad997856f5db6f8ea3a094a"
 
   url "https://github.com/cogell/sshot/releases/download/v#{version}/SSHot-#{version}.zip"
   name "SSHot"
